@@ -88,7 +88,7 @@ This dashboard combines a clean layout with multiple pages to show different sto
 - This view appears as a tooltip when users hover over visuals (e.g., sales chart).
 - Designed as a **Qtr-wise breakdown** of all KPIs.
 
-![Tooltip Summary](SalesDataTooltip.png)
+![Tooltip Summary](Dashboard/SalesDataTooltip.png)
 
 ---
 
